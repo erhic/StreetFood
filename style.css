@@ -143,13 +143,15 @@ body {
     display: inline-flex;
     float: left;
     margin-top: -70px;
+    margin-left: 60px;
 }
 
 #bugger {
     width: 400px;
     height: 350px;
     position: absolute;
-    margin-top: 90px;
+    margin-top: 260px;
+    margin-left: 110px;
 }
 
 .hotdeals #splashline>splash {
