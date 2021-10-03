@@ -44,6 +44,10 @@ body {
     font-size: 60px;
 }
 
+.streetfood h1 {
+    color: #6CB840;
+}
+
 .header {
     background-color: #ccccb3;
     box-sizing: border-box;
