@@ -160,6 +160,16 @@ body {
     position: relative;
 }
 
+#hotd {
+    text-align: center;
+    padding-top: 20px;
+    padding-right: 320px;
+}
+
+#dealmenu {
+    color: #6CB840;
+}
+
 #splash p {
     margin-top: 180px;
     margin-left: 70px;
