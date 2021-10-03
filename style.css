@@ -1,0 +1,230 @@
+body {
+    font-family: 'Poppins';
+}
+
+.header nav ul li {
+    display: flex;
+    text-align: center;
+    display: inline;
+    margin-left: 20px;
+    margin-top: 40px;
+    justify-content: center;
+    background-color: #6CB840;
+    color: rgb(233, 85, 0);
+}
+
+#navigation {
+    flex-direction: row;
+    display: inline;
+    display: flex;
+    margin-left: 70px;
+    padding-left: 35px;
+    padding-top: 60px;
+}
+
+#list {
+    margin-right: 10px;
+}
+
+#list2 {
+    display: flex;
+    display: inline;
+}
+
+#menu-nav {
+    display: inline-flex flex;
+}
+
+#star {
+    font-size: 180px;
+    position: relative;
+}
+
+#streetfood {
+    font-size: 60px;
+}
+
+.header {
+    background-color: #ccccb3;
+    box-sizing: border-box;
+}
+
+.footer {
+    background-color: #C9ECB5;
+}
+
+.streetfood {
+    padding-left: 90px;
+    padding-top: 80px;
+    padding-bottom: 130px;
+}
+
+#order {
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-top: 25px;
+}
+
+.eat {
+    display: flex;
+    flex-direction: row;
+}
+
+.exploremenu {
+    background-color: #ddff99;
+    margin-left: 42px;
+    margin-right: 42px;
+    margin-bottom: 1px;
+}
+
+.exploremenu>h3 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.exploremenu>p {
+    display: flex;
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-bottom-right-radius: 40px;
+    width: 180px;
+    height: 100px;
+    display: inline-flex;
+    justify-content: right;
+    text-align: center;
+    margin-bottom: 80px;
+    padding: 10px;
+}
+
+.exploremenu>img {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: 62px;
+    margin-left: 37px;
+    position: absolute;
+    width: 120px;
+    height: 90px;
+    display: inline-flex;
+}
+
+.hotdeals {
+    background-color: #C9ECB5;
+    display: flex;
+    flex-direction: column;
+    margin-left: 42px;
+    margin-right: 42px;
+    margin-top: 0%;
+    text-align: center;
+}
+
+#splashline {
+    display: inline-flex;
+}
+
+.hotdeals #splashline>img {
+    padding-top: -23px;
+    margin-left: 150px;
+}
+
+#splash p {
+    margin-top: 180px;
+    padding-left: 90px;
+    text-align: center;
+    margin-right: 50px;
+}
+
+.contact {
+    background-color: #FFD77C;
+    display: flex;
+    flex-direction: column;
+    margin-top: 0.2px;
+    margin-left: 42px;
+    margin-right: 42px;
+    align-items: center;
+    font-family: 'Poppins'Arial, sans-serif;
+}
+
+.contact p {
+    text-align: center;
+}
+
+button {
+    background-color: #6CB840;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+#k {
+    width: 400px;
+    height: 37px;
+    border-radius: 20px;
+    border: none;
+}
+
+#send {
+    width: 120px;
+    height: 37px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+}
+
+.footer {
+    margin-top: 40px;
+    margin-bottom: 10px;
+    margin-left: 37px;
+    margin-right: 48px;
+    display: inline-flex;
+}
+
+#eat img {
+    width: 58%;
+    height: 37%;
+    margin-left: 40px;
+}
+
+#eat {
+    display: inline-flex;
+}
+
+#eatblock {
+    margin-top: 150px;
+    text-align: center;
+}
+
+#days {
+    margin-left: 40px;
+    padding-right: 50px;
+    padding-left: 25px;
+    margin-top: 40px;
+}
+
+#address {
+    padding-top: 60px;
+    padding-left: 45px;
+    padding-bottom: 60px;
+    border-left: dotted rgb(130, 184, 146);
+}
+
+#socialmedia {
+    margin-left: 390px;
+    padding-left: 40px;
+    padding-top: 60px;
+}
+
+#media {
+    padding-left: 35px;
+    padding-top: 60px;
+    padding-right: 10x;
+}
+
+#finalbt {
+    border-radius: 0%;
+    width: 85px;
+    height: 27px;
+}
