@@ -72,6 +72,10 @@ body {
     flex-direction: row;
 }
 
+#eatblock>h1 {
+    color: #EAAB1B;
+}
+
 .exploremenu {
     background-color: #ddff99;
     margin-left: 42px;
