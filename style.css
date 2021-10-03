@@ -152,6 +152,10 @@ body {
     margin-right: 5px;
 }
 
+.contact span {
+    color: #6CB840;
+}
+
 .contact {
     background-color: #FFD77C;
     display: flex;
@@ -178,7 +182,7 @@ button {
     color: white;
 }
 
-#k {
+#eml {
     width: 400px;
     height: 45px;
     border-radius: 20px;
