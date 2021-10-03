@@ -139,8 +139,10 @@ body {
     text-align: center;
 }
 
-#splashline {
+.splashline #pic {
     display: inline-flex;
+    float: left;
+    margin-top: -70px;
 }
 
 #bugger {
