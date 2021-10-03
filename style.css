@@ -139,6 +139,10 @@ body {
     text-align: center;
 }
 
+#pack {
+    padding-top: -170px;
+}
+
 .splashline #pic {
     display: inline-flex;
     float: left;
@@ -158,11 +162,6 @@ body {
     margin-top: 2px;
     margin-left: 20px;
     position: relative;
-}
-
-#splash {
-    padding-top: 0px;
-    margin-top: -90px;
 }
 
 #hotd {
@@ -236,7 +235,7 @@ button {
     margin-top: 40px;
     margin-bottom: 10px;
     margin-left: 37px;
-    margin-right: 48px;
+    margin-right: 38px;
     display: inline-flex;
 }
 
@@ -278,7 +277,7 @@ button {
 #media {
     padding-left: 35px;
     padding-top: 60px;
-    padding-right: 10x;
+    padding-right: 20x;
 }
 
 #finalbt {
