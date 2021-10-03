@@ -152,6 +152,10 @@ body {
     text-align: center;
 }
 
+.contact h2 {
+    padding-top: 70px;
+}
+
 button {
     background-color: #6CB840;
     border: none;
@@ -161,14 +165,14 @@ button {
 
 #k {
     width: 400px;
-    height: 37px;
+    height: 45px;
     border-radius: 20px;
     border: none;
 }
 
 #send {
     width: 120px;
-    height: 37px;
+    height: 45px;
     margin-top: 20px;
     margin-bottom: 50px;
     border-radius: 20px;
