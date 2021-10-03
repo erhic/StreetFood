@@ -84,6 +84,10 @@ body {
     padding-top: 20px;
 }
 
+.exploremenu #menu {
+    color: #6CB840;
+}
+
 .exploremenu>p {
     display: flex;
     background-color: white;
