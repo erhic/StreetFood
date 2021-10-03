@@ -48,6 +48,10 @@ body {
     color: #6CB840;
 }
 
+.streetfood #food {
+    color: #EAAB1B;
+}
+
 .header {
     background-color: #ccccb3;
     box-sizing: border-box;
