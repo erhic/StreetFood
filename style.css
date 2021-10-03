@@ -61,6 +61,10 @@ li a {
     font-size: 60px;
 }
 
+.sfood {
+    display: inline-flex;
+}
+
 .streetfood h1 {
     color: #6CB840;
 }
