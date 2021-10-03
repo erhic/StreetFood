@@ -27,11 +27,12 @@ li a {
     color: black;
     text-decoration: none;
     justify-items: center;
-    padding-left: 40px;
+    padding-left: 30px;
 }
 
 #star {
-    height: 100px;
+    height: 170px;
+    margin-top: -50px;
 }
 
 #navigation {
@@ -44,20 +45,15 @@ li a {
 }
 
 #list {
-    margin-right: 10px;
-}
-
-#list2 {
-    display: flex;
-    display: inline;
+    margin-right: 25px;
 }
 
 #menu-nav {
     display: inline-flex flex;
 }
 
-#star {
-    font-size: 180px;
+.stars h1 {
+    font-size: 35px;
     position: relative;
 }
 
@@ -300,6 +296,10 @@ button {
     padding-left: 35px;
     padding-top: 60px;
     padding-right: 20x;
+}
+
+#insta {
+    width: 40px;
 }
 
 #finalbt {
