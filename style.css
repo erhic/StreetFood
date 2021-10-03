@@ -160,6 +160,11 @@ body {
     position: relative;
 }
 
+#splash {
+    padding-top: 0px;
+    margin-top: -90px;
+}
+
 #hotd {
     text-align: center;
     padding-top: 20px;
