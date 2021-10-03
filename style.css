@@ -2,6 +2,10 @@ body {
     font-family: 'Poppins';
 }
 
+#stre {
+    padding-right: 139px;
+}
+
 .header nav ul li {
     display: flex;
     text-align: center;
