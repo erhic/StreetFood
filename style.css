@@ -80,11 +80,11 @@ li a {
     z-index: 0;
     position: absolute;
     margin-left: 70px;
-    width: 1200px;
-    height: 1200px;
+    width: 1000px;
+    height: 900px;
     margin-left: 325px;
     border-radius: 50%;
-    margin-top: -850px;
+    margin-top: -600px;
     transform: translate(100px, -5%);
     overflow: hidden;
 }
